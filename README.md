@@ -1,4 +1,4 @@
-<h2 align="left">Hi! I'm Gabriel Werneck, a Software Engineer Intern at Fiduciam and weekend freelancer with my own company.</h2>
+<h2 align="left">Hi! I'm Gabriel Werneck, a Software Engineer Intern at Fiduciam and weekend freelancer with Rocketpulse.</h2>
 
 ###
 ![banner-1](https://github.com/user-attachments/assets/48a8ac54-8ea3-41b2-aedd-a5f06e12b5ee)
