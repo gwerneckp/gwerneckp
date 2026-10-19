@@ -5,20 +5,22 @@
 
 ###
 
-I like making little tools that save me (and hopefully you) a few clicks, and turning ideas into things you can actually hold. 🌱
+Junior Software Engineer at [DitchCarbon](https://ditchcarbon.com) 🌱 Based in London, studying at the University of Bath.
+I like reverse-engineering protocols, building clean Python libraries, and automating the boring parts of everyday life.
 
-### ✨ Some cool things
+### ✨ Selected projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4>⌚ <a href="https://github.com/gwerneckp/garmin-ble">garmin-ble</a></h4>
-      My watch and I have a direct line now. Chat with a Garmin over Bluetooth: no cloud, no phone, no app in the middle.
+      A Python client for Garmin's proprietary BLE protocol, reverse-engineered from scratch. Talks to the watch directly, with no cloud, no phone and no Garmin Connect.
       <br><br><a href="https://pypi.org/project/garmin-ble/"><img src="https://img.shields.io/pypi/v/garmin-ble?color=23885c&label=pypi" alt="PyPI"></a>
+      <img src="https://img.shields.io/github/stars/gwerneckp/garmin-ble?color=23885c" alt="Stars">
     </td>
     <td width="50%" valign="top">
       <h4>⛏️ <a href="https://github.com/gwerneckp/minecraft-schematics">minecraft-schematics</a></h4>
-      Open up Minecraft builds and peek at every block inside. Its sibling, <a href="https://github.com/gwerneckp/MClassifier">MClassifier</a>, teaches an AI to tell a castle from a cottage.
+      A Python library for reading and processing Minecraft schematic files. Companion project: <a href="https://github.com/gwerneckp/MClassifier">MClassifier</a>, a model that classifies buildings from their 3D block data.
     </td>
   </tr>
 </table>
@@ -29,22 +31,22 @@ I like making little tools that save me (and hopefully you) a few clicks, and tu
   <tr>
     <td width="33%" valign="top">
       <h4>📖 <a href="https://github.com/gwerneckp/moodlekit">moodlekit</a></h4>
-      Lecture notes and deadlines, fetched for you. Works with your normal uni login, and your AI assistant can use it too.
+      Moodle from Python, the CLI or an AI agent. Reuses your browser session, so it works with SSO and needs no API token.
     </td>
     <td width="33%" valign="top">
       <h4>🏸 <a href="https://github.com/gwerneckp/teambath">teambath</a></h4>
-      Squash court at 6? Find the free courts and class spaces before everyone else does.
+      A Python client for the Team Bath booking site: court availability, class spaces and bookings.
     </td>
     <td width="33%" valign="top">
       <h4>📚 <a href="https://github.com/gwerneckp/brooms">brooms</a></h4>
-      Book a library study room for Monday without ever opening a browser.
+      Search and book University of Bath study rooms from Python, no browser needed.
     </td>
   </tr>
 </table>
 
-### 🖨️ Off the screen
+### 🖨️ 3D printing
 
-When I'm not coding, I'm usually designing and 3D printing things: stands, organisers, little gifts. Come say hi! 💚
+Outside of software I design and print functional parts: stands, mounts and organisers. My models:
 
 <a href="https://makerworld.com/en/@gwern"><img src="https://img.shields.io/badge/MakerWorld-@gwern-23885c?style=for-the-badge" alt="MakerWorld"></a>
 <a href="https://www.printables.com/@gwerneckp_5547723"><img src="https://img.shields.io/badge/Printables-@gwerneckp-fa6831?style=for-the-badge&logo=printables&logoColor=white" alt="Printables"></a>
