@@ -20,7 +20,7 @@ I like reverse-engineering protocols, building clean Python libraries, and autom
     </td>
     <td width="50%" valign="top">
       <h4>⛏️ <a href="https://github.com/gwerneckp/minecraft-schematics">minecraft-schematics</a></h4>
-      A Python library for reading and processing Minecraft schematic files. Companion project: <a href="https://github.com/gwerneckp/MClassifier">MClassifier</a>, a model that classifies buildings from their 3D block data.
+      A Python library for reading and processing Minecraft schematic files.
     </td>
   </tr>
 </table>
