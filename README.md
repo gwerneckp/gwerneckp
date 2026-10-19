@@ -7,7 +7,7 @@
 
 I like making little tools that save me (and hopefully you) a few clicks, and turning ideas into things you can actually hold. 🌱
 
-### 🛠️ Things I've built
+### ✨ Some cool things
 
 <table>
   <tr>
@@ -21,14 +21,23 @@ I like making little tools that save me (and hopefully you) a few clicks, and tu
       Open up Minecraft builds and peek at every block inside. Its sibling, <a href="https://github.com/gwerneckp/MClassifier">MClassifier</a>, teaches an AI to tell a castle from a cottage.
     </td>
   </tr>
+</table>
+
+#### 🎓 For the University of Bath
+
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🎓 <a href="https://github.com/gwerneckp/moodlekit">moodlekit</a></h4>
+    <td width="33%" valign="top">
+      <h4>📖 <a href="https://github.com/gwerneckp/moodlekit">moodlekit</a></h4>
       Lecture notes and deadlines, fetched for you. Works with your normal uni login, and your AI assistant can use it too.
     </td>
-    <td width="50%" valign="top">
-      <h4>🏸 <a href="https://github.com/gwerneckp/teambath">teambath</a> &amp; 📚 <a href="https://github.com/gwerneckp/brooms">brooms</a></h4>
-      Squash court at 6? Study room on Monday? Two small helpers that book life at the University of Bath before everyone else does.
+    <td width="33%" valign="top">
+      <h4>🏸 <a href="https://github.com/gwerneckp/teambath">teambath</a></h4>
+      Squash court at 6? Find the free courts and class spaces before everyone else does.
+    </td>
+    <td width="33%" valign="top">
+      <h4>📚 <a href="https://github.com/gwerneckp/brooms">brooms</a></h4>
+      Book a library study room for Monday without ever opening a browser.
     </td>
   </tr>
 </table>
