@@ -6,9 +6,8 @@
 ###
 
 Junior Software Engineer at [DitchCarbon](https://ditchcarbon.com) 🌱 Based in London, studying at the University of Bath.
-I like reverse-engineering protocols, building clean Python libraries, and automating the boring parts of everyday life.
 
-### ✨ Selected projects
+### ✨ Some cool projects
 
 <table>
   <tr>
@@ -25,7 +24,7 @@ I like reverse-engineering protocols, building clean Python libraries, and autom
   </tr>
 </table>
 
-#### 🎓 For the University of Bath
+#### 🎓 Some stuff to make uni life easier 
 
 <table>
   <tr>
@@ -46,7 +45,7 @@ I like reverse-engineering protocols, building clean Python libraries, and autom
 
 ### 🖨️ 3D printing
 
-Outside of software I design and print functional parts: stands, mounts and organisers. My models:
+Outside of software I really enjoy making things I can hold
 
 <a href="https://makerworld.com/en/@gwern"><img src="https://img.shields.io/badge/MakerWorld-@gwern-23885c?style=for-the-badge" alt="MakerWorld"></a>
 <a href="https://www.printables.com/@gwerneckp_5547723"><img src="https://img.shields.io/badge/Printables-@gwerneckp-fa6831?style=for-the-badge&logo=printables&logoColor=white" alt="Printables"></a>
